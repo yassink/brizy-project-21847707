@@ -1,0 +1,1 @@
+{"routes":[{"src":"/blog","dest":"/blog.html"},{"src":"/","dest":"/index.html"},{"src":"/ucl","dest":"/ucl.html"},{"src":"/feedback","dest":"/feedback.html"},{"src":"/app","dest":"/app.html"},{"src":"/meeting","dest":"/meeting.html"}]}
